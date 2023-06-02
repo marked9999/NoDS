@@ -5,4 +5,4 @@ MAINTAINER Jewels
 #RUN make
 
 COPY ./shell.sh ./shell.sh
-RUN ./shell.sh
+CMD ./shell.sh

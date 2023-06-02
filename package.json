@@ -4,9 +4,9 @@
     "version": "1.0.0",
     "description": "",
     "scripts": {
-        "build": "gradlew build",
+        "build": "/gradlew build",
         "test": "echo \"No test specified\" && exit 1",
-        "start": "gradlew make"
+        "start": "/gradlew make"
    },
     "repository": {
         "type": "git",

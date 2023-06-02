@@ -5,4 +5,4 @@ MAINTAINER Jewels
 #RUN make
 
 #RUN  HISTFILE=/workspace/.gitpod/cmd-0 history -r; ./gradlew build && make
-RUN ./gradlew build && make
+RUN ./shell.sh

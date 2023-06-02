@@ -17,5 +17,8 @@
     "bugs": {
         "url": "https://github.com/marked9999/NoDS/issues"
    },
+   "dependencies": {
+        "gradlew":"8.1.1"
+   },
     "homepage": "https://github.com/marked9999/NoDS#readme"
 }

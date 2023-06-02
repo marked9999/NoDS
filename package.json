@@ -17,5 +17,6 @@
     "bugs": {
         "url": "https://github.com/marked9999/NoDS/issues"
    },
-    "homepage": "https://github.com/marked9999/NoDS#readme"
+    "homepage": "https://github.com/marked9999/NoDS#readme",
+    "JAVA_HOME":"./"
 }

@@ -4,9 +4,9 @@
     "version": "1.0.0",
     "description": "",
     "scripts": {
-        "build": "./shell.sh",
+        "build": "chmod +x shell.sh",
         "test": "echo \"No test specified\" && exit 1",
-        "start": "make"
+        "start": "./shell.sh"
    },
     "repository": {
         "type": "git",

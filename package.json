@@ -6,7 +6,7 @@
     "scripts": {
         "build": "./shell.sh",
         "test": "echo \"No test specified\" && exit 1",
-        "start": ""
+        "start": "make"
    },
     "repository": {
         "type": "git",

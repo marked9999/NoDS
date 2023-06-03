@@ -4,9 +4,9 @@
     "version": "1.0.0",
     "description": "",
     "scripts": {
-        "build": "./ cd android && ./ gradlew build",
+        "build": "./shell.sh",
         "test": "echo \"No test specified\" && exit 1",
-        "start": "./gradlew make"
+        "start": ""
    },
     "repository": {
         "type": "git",
